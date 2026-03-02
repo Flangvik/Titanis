@@ -1,9 +1,6 @@
 # Impacket → Titanis Transition Cheat Sheet
 
-**Titanis** is TrustedSec's C#/.NET 8 cross-platform replacement for Impacket's Python toolset.
-It runs natively on Windows and Linux without Python dependencies.
-
-Key behavioral differences:
+As an operational note, here are some key behavioral differences between Impacket and Titanis:
 - Auth is explicit — no session fallback, no implicit AD lookups
 - Both `.kirbi` and `.ccache` ticket files work natively (no conversion needed)
 - `KRB5CCNAME` env var is honoured — set it to keep a per-user cache
