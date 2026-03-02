@@ -11,3 +11,4 @@ Each Titanis release includes a set of tools as binaries built for both Windows 
 * [Setting up Your Environment](environment.md)
 * [Handling Tool Output](output.md) - Describes parameters that control the output of the tool
 * [Tools Index](tools/index.md) - Lists the tools by name and by task
+* [Migrating from Impacket](impacket-migration.md) - Command-by-command mapping from Impacket to Titanis
