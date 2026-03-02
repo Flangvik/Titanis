@@ -53,6 +53,8 @@ For a list of command line tools and tasks you can perform with them, check the 
 
 If you are a user, see the [User Guide](doc/UserGuide/index.md) for a list of command line utilities and how to use them.
 
+If you are coming from Impacket, see the [Impacket Migration Guide](doc/UserGuide/impacket-migration.md) for a command-by-command mapping of Impacket tools to their Titanis equivalents.
+
 If you are a developer, see the [Developer Guide](doc/DevGuide/index.md) for information on how to enhance the code base.
 
 # Planned Enhancements
